@@ -1,7 +1,7 @@
 
 # Hi, I'm Kevin! 👋
 
-I've been QA Engineer for 15 years. I am now studying at OpenClassrooms to become a JavaScript React.
+I've been QA Engineer for 15 years. I am now studying at OpenClassrooms to become a JavaScript React developper.
 
 
 
