@@ -14,7 +14,7 @@ I've been QA Engineer for 15 years. I am now studying at OpenClassrooms to becom
 
 🧠 I'm currently learning JavaScript.
 
-👯‍♀️ I WILL BE looking to collaborate on open source projects but I have not enough skills.
+👯‍♀️ I WILL BE looking to collaborate on open source projects but (I think) I have not enough skills.
 
 🤔 I'm NOT looking for help with JavaScript because I prefer looking for answers by myself. It's better to learn new skills.
 
