@@ -1,7 +1,7 @@
 
 # Hi, I'm Kevin! 👋
 
-I've been QA Engineer for 15 years. I am now studying at OpenClassrooms to become a JavaScript React developper.
+I was QA Engineer for 15 years. I am now studying at OpenClassrooms to become a JavaScript React developper.
 
 
 
@@ -24,7 +24,7 @@ I've been QA Engineer for 15 years. I am now studying at OpenClassrooms to becom
 
 😄 Pronouns : he/him
 
-⚡️ Fun fact : when I am not learning front end development, I like to cook (especially chocolate deserts), playing with my kids, working out, making DIY soaps, and doing puzzles.
+⚡️ Fun fact : before switching to frontend developpment, I was a QA for 15 years.
 ## 🛠 Skills
 Javascript, HTML, CSS.
 
