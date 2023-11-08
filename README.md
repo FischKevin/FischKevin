@@ -16,13 +16,9 @@ I was QA Engineer for 15 years. I am now studying at OpenClassrooms to become a 
 
 👯‍♀️ I WILL BE looking to collaborate on open source projects but (I think) I have not enough skills.
 
-🤔 I'm NOT looking for help with JavaScript because I prefer looking for answers by myself. It's better to learn new skills.
-
 💬 Ask me about everything you want. Maybe I can help.
 
 📫 How to reach me : you can find contact links above.
-
-😄 Pronouns : he/him
 
 ⚡️ Fun fact : before switching to frontend developpment, I was a QA for 15 years.
 ## 🛠 Skills
