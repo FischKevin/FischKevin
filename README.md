@@ -8,7 +8,6 @@ I was QA Engineer for 16 years. I am now studying at OpenClassrooms to become a 
 ## 🔗 Links
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FischKevin/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinfischerqa/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on the ninth project (on 14) from OpenClassrooms JavaScript React developper path.
 
