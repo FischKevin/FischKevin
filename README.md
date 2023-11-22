@@ -19,7 +19,7 @@ I was QA Engineer for 16 years. I am now studying at OpenClassrooms to become a 
 
 📫 How to reach me : you can find contact links above.
 
-⚡️ Fun fact : before switching to frontend developpment, I was a QA for 15 years.
+⚡️ Fun fact : before switching to frontend developpment, I was a QA for 16 years. I am now studying to reach the light side of tech. Yes, I believe that QA is the dark side of tech.
 ## 🛠 Skills
 Javascript, HTML, CSS.
 
