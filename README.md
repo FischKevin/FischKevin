@@ -11,7 +11,7 @@ I am studying at OpenClassrooms to learn JavaScript React developpment.
 ## Other Common Github Profile Sections
 👩‍💻 I have ended my OpenClassrooms JavaScript React developper path.
 
-🧠 I'm currently lworking on a side project : a pizzeria website..
+🧠 I'm currently lworking on a side project : a pizzeria website.
 
 💬 Ask me about everything you want. Maybe I can help.
 
