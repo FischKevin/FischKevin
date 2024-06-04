@@ -11,7 +11,7 @@ I am studying at OpenClassrooms to learn JavaScript React developpment and I'm l
 ## Other Common Github Profile Sections
 👩‍💻 I have ended my OpenClassrooms JavaScript React developper path.
 
-🧠 I'm currently looking for a side project to improve my skills.
+🧠 I've just finished my portfolio (kevinfischer.dev), and I'm working on a full stack project : a vegetable garden manager.
 
 💬 Ask me about everything you want. Maybe I can help.
 
